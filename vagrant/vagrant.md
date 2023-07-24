@@ -1,3 +1,4 @@
+
 # Using vagrant to automate virtual machines
 ## Prerequisites 
 
@@ -35,4 +36,8 @@
 `exit` to leave VM
 
 -`vagrant halt` to stop VM
+
+- Repeat same steps for ubuntu using the name "ubuntu jammy"
+![](./img/vag-ubuntu.PNG)
+![](./img/install-ubuntu.PNG)
 
